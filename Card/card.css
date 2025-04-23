@@ -1,0 +1,84 @@
+    .row{
+    display: flex;
+    flex-direction: row;
+    gap:190px;    
+}
+.col1{
+    border: 3px solid black;
+    box-shadow: 10px 3px 10px 3px;
+    border-radius: 30px;
+    
+}
+.col2{
+    border: 3px solid black;
+    box-shadow: 10px 3px 10px 3px;
+    border-radius: 30px;
+}
+.col3{
+    border: 3px solid black;
+    box-shadow: 10px 3px 10px 3px;
+    border-radius: 30px;
+}
+h1{
+    text-align: center;
+    color: black;
+}
+.btn1:hover{
+    background-color:rgba(221, 12, 193, 0.877);
+}
+.bg{
+    background-color: rgb(66, 66, 226);
+    height: 50px;
+    width: 310px;
+    margin-top: 20px;
+    border-radius:17px;
+}
+.bg:hover{
+    background-color: red;
+}
+h3{
+    text-align: center;
+    text-emphasis: none;
+}
+h4{
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.checked1 {
+    color: gold;
+  }
+.checked2{
+    color: gold;
+}
+.imgage-container{
+position: relative;
+display: inline-block;
+}
+.imgage-container img{
+    display: block;
+
+}
+ .imgage-container button{
+ position: absolute;
+bottom : 3%;
+ right:15px;
+ 
+ }
+ #l{
+    text-align: center;
+ }
+ #o{
+    margin-left: 150px;
+    border-radius: 4px;
+ }
+ #e{
+line-height:3px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
+ #x{
+   background-color: white;
+ }
+ .j{
+    border-radius: 30px;
+ }
+ 

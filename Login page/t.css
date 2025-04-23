@@ -1,0 +1,9 @@
+h1{
+    margin-top:300px;
+    color:yellow;
+}
+body{
+    background: #020024;
+background: linear-gradient(nulldeg, rgb(10, 4, 131) 30%, rgb(14, 14, 185) 64%,
+ rgba(0, 212, 255, 1) 100%);
+}

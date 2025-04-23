@@ -1,0 +1,27 @@
+body{
+    background-image: url(pj1.jpg);
+    margin-top: 170px;
+    width: 330px;
+    height: 350px;
+    text-align: center;
+    background-size:cover;
+    margin-left: 500px;
+    border:solid 4px rgb(30px,30px,30px,30px);
+    border-radius: 10px;
+} 
+h1{
+    text-align:center ;
+}
+ #a{
+padding-right: 120px;
+}
+#aa{
+    padding-right: 100px;
+    }
+.k{
+    width: 170px;
+    height: 30px;
+}
+#p{
+box-shadow:10px 3px 10px 3px;
+}

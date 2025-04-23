@@ -1,0 +1,72 @@
+table{
+    border-collapse: collapse ;
+    width: 1300px;
+    height: 100px;
+    margin-top: 40px;
+    margin-left: 20px;
+    margin-bottom: 20px;}
+.a{
+    width: 200px;
+    height: 80px;
+    background-color: aliceblue;
+    padding-left: 20px;
+}
+.b{
+    width:700px; 
+    background-color: gainsboro;
+    height:80px;
+}
+.c{
+    width: 400px;
+   background-color: aliceblue;
+    height:80px;
+}
+.d{
+    width: 1000px;
+   background-color: gainsboro;
+    height: 80px;
+}
+.e{
+    width: 400px;
+    background-color: aliceblue;
+    height: 80px;
+}
+.f{
+    width: 300px;
+   background-color: gainsboro;
+    height:100px ;
+}
+.g{
+    width: 300px;
+    height: 80px;
+    background-color: aliceblue;
+}
+
+body{
+    background: #020024;
+background: linear-gradient(90deg,rgba(2, 0, 36, 1) 0%, rgba(9, 9, 121, 1) 22%, rgba(0, 212, 255, 1) 100%);
+
+}
+#k{
+background-color: rgb(97, 199, 97);
+margin-left: 50px;
+}
+#r{
+    background-color: rgb(206, 56, 56);
+    margin-left: 50px;
+}
+#l{
+    background-color: rgb(85, 85, 226);
+    margin-left: 50px;
+}
+#y{
+    background-color: rgb(236, 236, 77);
+    margin-left: 50px;
+}
+h1{
+    text-align: center;
+    color: white;
+}
+.s{
+    margin: left 50px; ;
+}

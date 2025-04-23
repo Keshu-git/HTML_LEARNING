@@ -1,0 +1,26 @@
+table{
+    border-collapse: collapse;
+    width: 1300px;
+    height: 520px;
+    margin-top: 50px;
+    margin-left: 20px;
+    border-color: rgb(11, 72, 87);
+}
+.a{
+    color: yellow;
+    background-color:rgb(15, 15, 95) ;
+    border-color:rgb(15,15,95) ;
+}
+.b{
+    background-color: rgb(42, 146, 172);
+    border-color:rgb(42, 146, 172);
+    color:aliceblue;
+}
+.c{
+    background-color: rgb(15, 15, 95);
+    border-color: rgb(15,15,95);
+    color:aliceblue;
+}
+body{
+    background-color: rgb(42, 146, 172);
+}
